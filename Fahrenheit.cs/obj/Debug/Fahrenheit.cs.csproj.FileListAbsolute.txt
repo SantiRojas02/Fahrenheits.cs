@@ -1,0 +1,6 @@
+D:\Facultad\Programacion\Act 1 c#\Fahrenheit.cs\Fahrenheit.cs\bin\Debug\Fahrenheit.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Fahrenheit.cs\Fahrenheit.cs\bin\Debug\Fahrenheit.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Fahrenheit.cs\Fahrenheit.cs\bin\Debug\Fahrenheit.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Fahrenheit.cs\Fahrenheit.cs\obj\Debug\Fahrenheit.cs.csprojResolveAssemblyReference.cache
+D:\Facultad\Programacion\Act 1 c#\Fahrenheit.cs\Fahrenheit.cs\obj\Debug\Fahrenheit.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Fahrenheit.cs\Fahrenheit.cs\obj\Debug\Fahrenheit.cs.pdb
